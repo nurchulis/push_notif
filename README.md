@@ -7,7 +7,8 @@ Adapun yang harus disiapkan adalah:
 - react-native": "0.57.5
 
 
-####Setting Android/src/main/AndroidManifest.xml
+
+###Setting Android/src/main/AndroidManifest.xml
 
 ```html
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
